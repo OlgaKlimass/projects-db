@@ -47,14 +47,6 @@
       "img": "img/montreal.png",
       "link": "https://montreal.klymas.com/",
       "text": "<p>The website was developed during my work at Consult.marketing agency (Brovary, Ukraine).</p><p>The main purpose of the site is to show all available options for commerce estate from modern business centers to the historical center of the city. Most of the objects are for rent although there are a few objects for sale.</p><p>It is based on CMS WordPress.</p><p>As the customer has been using CRM Plektan where he collected all his real estate ads, so there was necessary to implement the API of the CRM. It was done successfully using the Vue framework and implementing Vue components.</p><p>Furthermore, there was needed to realize the posts filter so there has used WP REST API, which gave us the ability to get post information in the response on the server and show a filtered list.</p><p>There were used plugins such as Elementor, Woocommerce, Advanced custom fields, Polylang, Contact Form 7, etc.</p><p>During the development, I followed all rules of BEM methodology for styles. The website is completely adaptive for mobile devices.</p>"
-    },
-    {
-      "id": "expo",
-      "name": "Expo Solution",
-      "description": "Manufacturer of exhibition and trade equipment ",
-      "img": "img/expo.png",
-      "link": "https://www.expo-solution.com/",
-      "text": "<p>The website was developed during my work at Consult.marketing agency (Brovary, Ukraine).</p><p>This is online catalog of company, which manufacture exhibition materials and trade equipment, from the smallest to those that require large exhibition areas.</p><p>The site is based on CMS WordPress. There were created static pages, product catalogs, and product pages.</p><p>For creating were used such plugins as Elementor, Woocommerce, Advanced custom fields, Contact Form 7, etc. </p><p>During the development, I followed all rules of BEM methodology for styles. The website is completely adaptive for mobile devices.</p>"
     }
   ]
 }
