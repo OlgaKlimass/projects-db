@@ -55,14 +55,6 @@
       "img": "img/expo.png",
       "link": "https://www.expo-solution.com/",
       "text": "<p>The website was developed during my work at Consult.marketing agency (Brovary, Ukraine).</p><p>This is online catalog of company, which manufacture exhibition materials and trade equipment, from the smallest to those that require large exhibition areas.</p><p>The site is based on CMS WordPress. There were created static pages, product catalogs, and product pages.</p><p>For creating were used such plugins as Elementor, Woocommerce, Advanced custom fields, Contact Form 7, etc. </p><p>During the development, I followed all rules of BEM methodology for styles. The website is completely adaptive for mobile devices.</p>"
-    },
-    {
-      "id": "eco",
-      "name": "Eco Solution",
-      "description": "A company for the processing of secondary raw materials in the city of Dnipro",
-      "img": "img/eco.png",
-      "link": "https://eco-solution.com.ua/",
-      "text": "<p>The website I realized absolutely myself when I worked at Consult.marketing agency (Brovary, Ukraine).</p><p>This is the business card site of the company, which is engaged in the processing of secondary raw materials in the city of Dnipro (Ukraine).</p><p>The site is based on CMS WordPress. There were created static pages, product catalogs, and product pages.</p><p>For creating were used such plugins as Elementor, Woocommerce, Advanced custom fields, Contact Form 7, etc. </p><p>During the development, I followed all rules of BEM methodology for styles. The website is completely adaptive for mobile devices.</p>"
     }
   ]
 }
