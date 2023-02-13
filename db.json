@@ -37,7 +37,7 @@
       "name": "Вагові рішення",
       "description": "Manufacturer of weighing equipment",
       "img": "img/vagovi.png",
-      "link": "https://vagovi.com.ua",
+      "link": "https://vagovi.com",
       "text": "<p>The website I realized absolutely myself when I worked at Consult.marketing agency (Brovary, Ukraine).</p><p>It is the online catalog of products for clients, who needed vehicle scales, railway scales, animal scales, and scales used in industrial facilities.</p><p>The site is based on CMS WordPress. There were created static pages, product catalogs, and product pages.</p><p>For creating were used such plugins as Elementor, Woocommerce, Advanced custom fields, Contact Form 7, etc.</p><p>During the development, I followed all rules of BEM methodology for styles. The website is completely adaptive for mobile devices.</p>"
     },
     {
